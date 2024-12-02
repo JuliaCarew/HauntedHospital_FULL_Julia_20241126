@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Event1
+  - Event2
+  - Event3
   layers:
   - Default
   - TransparentFX
